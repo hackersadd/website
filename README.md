@@ -1,4 +1,4 @@
-Jubatus Website
+Jubatus Website (Awesome)
 ===============
 
 
